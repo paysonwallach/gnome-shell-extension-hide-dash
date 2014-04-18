@@ -1,13 +1,10 @@
 {
-	"shell-version": [
-		"3.2",
-		"3.3.1", "3.3.2", "3.3.3", "3.3.4",
-		"3.4",
-		"3.6"
-	], 
-	"uuid": "hide-dash@zacbarton.com",
-	"name": "Hide Dash",
-	"description": "Hide the dash from the activities overview",
-	"url": "https://github.com/zacbarton/gnome-shell-extension-hide-dash",
-	"version": 1
+"shell-version": ["3.12"],
+"uuid": "hide-dash@xenatt.github.com",
+"name": "Hide Dash",
+"description": "Hide the dash from the activities overview",
+"original-author": "hide-dash@zacbarton.com",
+"url": "http://micheleg.github.io/dash-to-dock/",
+"gettext-domain": "hide-dash",
+"version": 0
 }
