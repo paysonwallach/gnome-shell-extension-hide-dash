@@ -13,6 +13,12 @@ Installation
 ------------
 
 To install the extension, clone this repository and symlink the directory
-"hide-dash@zacbarton.com" into "~/.local/share/gnome-shell/extensions/".
+"hide-dash@zacbarton.com" into "~/.local/share/gnome-shell/extensions/" or "/usr/share/gnome-shell/extensions/".
 Then restart gnome-shell (&lt;Alt&gt; + F2 and enter "r"), open
 gnome-tweak-tool and enable the extension.
+
+
+
+Support
+-------
+Gnome Shell 3.10 3.12
