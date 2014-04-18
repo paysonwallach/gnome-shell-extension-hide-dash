@@ -4,7 +4,7 @@
 "name": "Hide Dash",
 "description": "Hide the dash from the activities overview",
 "original-author": "hide-dash@zacbarton.com",
-"url": "http://micheleg.github.io/dash-to-dock/",
+"url": "https://github.com/zacbarton/gnome-shell-extension-hide-dash",
 "gettext-domain": "hide-dash",
 "version": 0
 }
