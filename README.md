@@ -25,4 +25,4 @@ Gnome Shell 3.10
 Gnome Shell 3.12
 
 
-![screenshot](screenshots.png)
+![screenshot](xenlism_cover2.jpg)
