@@ -24,6 +24,11 @@ Support
 Gnome Shell 3.10 
 Gnome Shell 3.12
 
+Arch User
+---------
+install with AUR 
+yaourt -S gnome-shell-extension-hidedash    
+
 **Disable**      
 ![screenshot](xenlism_cover2.jpg)
 
