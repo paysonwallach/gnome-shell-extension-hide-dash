@@ -41,9 +41,11 @@ const dashVisible = new Lang.Class({
 
 	_show: function() {
 		// global.log("hide dash");
-		Main.overview._dash.actor._show();
+		Main.overview._dash.actor.show();
 		Main.overview.viewSelector.actor.set_x(this.old_x);
 		Main.overview.viewSelector.actor.set_width(this.old_width);
 		Main.overview.viewSelector.actor.queue_redraw();
 	}
 });
+
+
