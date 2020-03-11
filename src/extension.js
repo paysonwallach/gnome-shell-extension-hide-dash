@@ -1,3 +1,12 @@
+/*
+ * Hide Dash
+ *
+ * Copyright (c) 2020 Payson Wallach
+ *
+ * Released under the terms of the GNU General Public License, version 3
+ * (https://gnu.org/licenses/gpl.html)
+ */
+
 const Main = imports.ui.main;
 
 let observer, x, width;
