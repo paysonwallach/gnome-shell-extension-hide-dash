@@ -1,0 +1,9 @@
+{
+  "name": "Hide Dash",
+  "description": "Hide the dash from the activities overview.",
+  "gettext-domain": "@APP_ID@",
+  "shell-version": ["3.36"],
+  "url": "https://github.com/paysonwallach/gnome-shell-hide-dash",
+  "uuid": @UUID@,
+  "version": @VERSION@
+}
